@@ -229,4 +229,4 @@ bun run test
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Dhruv Production House License - see the LICENSE file for details.
